@@ -1,6 +1,6 @@
 //isaac alejandro
 var url = window.location.href;
-var swLocation = '/pwa/sw.js';//el nombre de la carpeta 
+var swLocation = '/sw.js';//el nombre de la carpeta 
 
 if (navigator.serviceWorker) {
    
