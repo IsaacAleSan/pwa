@@ -1,13 +1,13 @@
 {
-    "short_name": "Mugres",
-    "name": "Tactical Mapaches Yucatecos",
+    "short_name": "NCorto",
+    "name": "Nombre extendido del equipo",
     "start_url": "index.html",
     "background_color": "#3498db",
     "theme_color": "#3498db",
     "display": "standalone",
     "orientation": "portrait",
-    "icons": 
-    [
+    "icons": [
+
     {
     "src": "img/icons/icon-72x72.png",
     "type": "image/png",
